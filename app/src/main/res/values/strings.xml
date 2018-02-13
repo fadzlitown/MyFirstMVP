@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">My First MVP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Display Msg-->
+    <string name="field_empty_msg">Please complete the form</string>
+    <string name="invalid_phone_msg">Mobile number is not valid</string>
+    <string name="invalid_email_msg">Email is not valid</string>
+    <string name="invalid_password_msg">Password should contain one special character and minimum 8 character required</string>
+    <string name="email_existed_msg">Email already exist</string>
+    <string name="saved_msg">Saved Successfully!</string>
+    <string name="invalid_user_type_msg">Please select user type</string>
+    <string name="login_success_msg">Login Successfully!</string>
+    <string name="user_not_existed">User doesn\'t existed</string>
+    <string name="logging_out_msg">Logging out…</string>
+    <string name="edit_your_number_msg">Please edit your phone number</string>
+    <string name="edit_successfully_msg">Number edit successfully</string>
+
+    <string name="hello">Hello </string>
+    <string name="your_acc_type_is">Your account type is</string>
+    <string name="update_btn">Update</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="phone_no_title">Phone Number</string>
+    <string name="first_last_name">First Last Name</string>
+    <string name="update_phone">Update Phone</string>
+    <string name="user_type">User Type</string>
+    <string name="log_out_btn">Log Out</string>
+    <string name="hi">Hi there!</string>
+    <string name="phone_hint">e.g 6012–2232123</string>
+    <string name="email">EMAIL</string>
+    <string name="email_hint">eg. youremail@mail.com</string>
+    <string name="password">PASSWORD</string>
+    <string name="password_hint">********</string>
+    <string name="enter_your_password_hint">Enter your password</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="fname_hint">eg. Fadzli</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="lname_hint">eg. Adam</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="user_types">USER TYPES</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="login_btn">Login</string>
+
+    <string-array name="user_types">
+        <item>- Select User Type -</item>
+        <item>Broker</item>
+        <item>Agent</item>
+        <item>Dealer</item>
+        <item>Private</item>
+    </string-array>
+</resources>
